@@ -1,0 +1,11 @@
+.input-component {
+  width: 100%;
+  border: 1px solid gray;
+  padding: 1rem;
+  border-radius: 3px;
+}
+
+.input-component:focus {
+  outline: none;
+  border: 1px solid black;
+}
